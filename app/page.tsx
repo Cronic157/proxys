@@ -183,6 +183,9 @@ export default function ProxysLandingPage() {
               >
                 Contact
               </Link>
+              <Link href="/blog" className="text-sm xl:text-base text-gray-600 hover:text-gray-900 transition-colors">
+                Blog
+              </Link>
             </nav>
 
             <div className="flex items-center space-x-2 sm:space-x-4">
@@ -454,8 +457,14 @@ export default function ProxysLandingPage() {
               </div>
 
               <div className="space-y-4">
-                <h3 className="text-base sm:text-lg font-semibold">Legal Information</h3>
+                <h3 className="text-base sm:text-lg font-semibold">Resources</h3>
                 <div className="space-y-2">
+                  <Link
+                    href="/blog"
+                    className="text-gray-400 hover:text-white transition-colors block text-sm sm:text-base"
+                  >
+                    Expert Blog
+                  </Link>
                   <Link
                     href="/privacy"
                     className="text-gray-400 hover:text-white transition-colors block text-sm sm:text-base"

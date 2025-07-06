@@ -132,6 +132,27 @@ export default function RootLayout({
                 "@type": "PostalAddress",
                 addressCountry: "US",
               },
+              "@type": "WebSite",
+              "@id": "https://proxys.online/#website",
+              url: "https://proxys.online",
+              name: "proxys.online",
+              description: "Premium proxy services with high-speed performance and worldwide coverage",
+              mainEntity: {
+                "@type": "Blog",
+                "@id": "https://proxys.online/blog",
+                name: "proxys.online Blog",
+                description: "Expert proxy guides and industry insights",
+              },
+              potentialAction: [
+                {
+                  "@type": "SearchAction",
+                  target: {
+                    "@type": "EntryPoint",
+                    urlTemplate: "https://proxys.online/search?q={search_term_string}",
+                  },
+                  "query-input": "required name=search_term_string",
+                },
+              ],
             }),
           }}
         />
