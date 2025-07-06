@@ -194,7 +194,7 @@ export default function ProxysLandingPage() {
                 size="sm"
                 className="bg-[#1E90FF] hover:bg-[#1E90FF]/90 text-white text-xs sm:text-sm px-3 sm:px-4 py-2"
               >
-                <Link href="https://myaccount.proxysonline.com" target="_blank" rel="noopener noreferrer">
+                <Link href="https://myaccount.proxys.online" target="_blank" rel="noopener noreferrer">
                   Buy Proxies
                 </Link>
               </Button>
@@ -236,7 +236,7 @@ export default function ProxysLandingPage() {
                   size="lg"
                   className="bg-[#1E90FF] hover:bg-[#1E90FF]/90 text-white text-base sm:text-lg px-6 sm:px-8 py-4 sm:py-6 w-full sm:w-auto"
                 >
-                  <Link href="https://myaccount.proxysonline.com" target="_blank" rel="noopener noreferrer">
+                  <Link href="https://myaccount.proxys.online" target="_blank" rel="noopener noreferrer">
                     Buy Proxies Now
                   </Link>
                 </Button>
@@ -417,7 +417,7 @@ export default function ProxysLandingPage() {
                 variant="secondary"
                 className="bg-white text-[#1E90FF] hover:bg-gray-100 text-base sm:text-lg px-6 sm:px-8 py-4 sm:py-6 w-full sm:w-auto"
               >
-                <Link href="https://myaccount.proxysonline.com" target="_blank" rel="noopener noreferrer">
+                <Link href="https://myaccount.proxys.online" target="_blank" rel="noopener noreferrer">
                   Buy Premium Proxies Now
                 </Link>
               </Button>

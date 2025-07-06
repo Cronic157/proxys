@@ -11,6 +11,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "e-commerce-price-monitoring",
     "social-media-automation-proxies",
     "proxy-security-best-practices",
+    "proxy-performance-optimization",
+    "avoiding-ip-bans-detection",
+    "proxy-apis-integration-guide",
+    "mobile-proxy-solutions",
+    "proxy-legal-compliance",
+    "instagram-scraping-proxies",
+    "amazon-price-monitoring",
+    "proxy-server-locations",
+    "proxy-monitoring-analytics",
+    "selenium-proxy-automation",
   ]
 
   return [
