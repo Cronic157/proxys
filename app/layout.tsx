@@ -104,6 +104,7 @@ export default function RootLayout({
         <meta name="theme-color" content="#1E90FF" />
         <meta name="msapplication-TileColor" content="#1E90FF" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
+        <meta name="cryptomus" content="f280dba8" />
 
         {/* Structured Data */}
         <script
